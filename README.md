@@ -5,6 +5,6 @@ This project was created for my Databases course. For this project I:
 •	Designed pages with HTML, PHP, SQL to present a product to a user or an employee based on the login credentials  
 
 
-
+Sample run:   
 https://user-images.githubusercontent.com/89548047/208333231-5cbd8d54-f48c-4384-85f6-0eacbb2760d7.mp4
 
